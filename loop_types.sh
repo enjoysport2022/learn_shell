@@ -23,7 +23,6 @@ done
 
 #until loop
 a=0
-
 until [ ! $a -lt 3 ]
 do
     echo $a
@@ -38,7 +37,6 @@ do
     while [ $b -ge 0 ]
     do
         echo -n "$b "
-#        b=$(expr $b - 1)
         b=`expr $b - 1`
     done
     echo

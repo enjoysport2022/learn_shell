@@ -14,8 +14,8 @@ VAR=ZARA
 echo "$VAR owes <-\$1500.**>; [ as of (`date +%m/%d`) ]"
 
 #反斜杆: Any character immediately following the backslash loses its special meaning.
-DATE=`date`
-echo "Current Date: $DATE"
 
 #反引号: Anything in between back quotes would be treated as a command and would be executed.
+DATE=`date`
+echo "Current Date: $DATE"
 

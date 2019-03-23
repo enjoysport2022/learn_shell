@@ -27,11 +27,9 @@ number_one () {
     echo "first func"
     number_two
 }
-
 number_two () {
     echo "second func"
 }
-
 number_one
 
 

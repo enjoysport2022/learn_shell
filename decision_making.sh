@@ -38,7 +38,6 @@ fi
 
 #switch case语句
 FRUIT="kiwi"
-
 case "$FRUIT" in
     "apple") echo "Apple pie is quite tasty."
     ;;
