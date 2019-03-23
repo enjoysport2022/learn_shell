@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#循环
 
 #while loop
 a=0

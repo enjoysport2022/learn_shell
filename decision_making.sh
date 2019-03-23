@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#判断
 
 a=10
 b=20

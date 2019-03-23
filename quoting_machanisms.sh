@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#引用
 
 echo Hello\; Word
 

@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#IO重定向
 
 #Output Redirection
 #输出重定向

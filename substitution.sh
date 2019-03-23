@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 #替换
 
 a=10

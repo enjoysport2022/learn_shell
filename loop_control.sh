@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#循环控制
 
 a=0
 while [ $a -lt 10 ]

@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#数组
 
 NAME[0]="a"  #初始化
 NAME[1]="b"
