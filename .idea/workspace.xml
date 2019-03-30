@@ -1,21 +1,279 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47595cc3-8171-401d-8f17-75d302ba4dc1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Beginners/.hidden" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Beginners/access_modes.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Beginners/basic_utilities.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Beginners/demo2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Beginners/directory_management.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Beginners/environment.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Beginners/file_management.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Beginners/food" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Beginners/from_budget_get_request.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Beginners/network_communication_utilities.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Beginners/pipes_and_filters.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Beginners/processes_management.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Beginners/temp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Beginners/vi_editor_tutorial.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shell Programming/shell编程.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shell Programming/temp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all_parameters.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/all_parameters.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/arrays.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_operators.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/basic_operators.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decision_making.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/decision_making.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exit_status.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/exit_status.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/functions.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_date.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/get_date.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_path.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/get_path.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/help_.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/help_.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_output_redirections.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/input_output_redirections.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop_control.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/loop_control.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop_types.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/loop_types.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quoting_machanisms.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/quoting_machanisms.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/read.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shell编程.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/special_variable.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/special_variable.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/substitution.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/substitution.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/users" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variable.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Shell Programming/variable.sh" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pipes_and_filters.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/For Beginners/pipes_and_filters.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="processes_management.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/For Beginners/processes_management.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="network_communication_utilities.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/For Beginners/network_communication_utilities.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vi_editor_tutorial.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/For Beginners/vi_editor_tutorial.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1580">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="from_budget_get_request.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/For Beginners/from_budget_get_request.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="decision_making.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Shell Programming/decision_making.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>traceid</find>
+      <find>s/.*traceid=\([0-9][a-zA-Z].*\)</find>
+      <find>\</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/read.sh" />
+        <option value="$PROJECT_DIR$/get_date.sh" />
+        <option value="$PROJECT_DIR$/get_path.sh" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" />
+        <option value="$PROJECT_DIR$/all_parameters.sh" />
+        <option value="$PROJECT_DIR$/exit_status.sh" />
+        <option value="$PROJECT_DIR$/variable.sh" />
+        <option value="$PROJECT_DIR$/special_variable.sh" />
+        <option value="$PROJECT_DIR$/arrays.sh" />
+        <option value="$PROJECT_DIR$/basic_operators.sh" />
+        <option value="$PROJECT_DIR$/decision_making.sh" />
+        <option value="$PROJECT_DIR$/loop_types.sh" />
+        <option value="$PROJECT_DIR$/loop_control.sh" />
+        <option value="$PROJECT_DIR$/substitution.sh" />
+        <option value="$PROJECT_DIR$/quoting_machanisms.sh" />
+        <option value="$PROJECT_DIR$/output_redirections.sh" />
+        <option value="$PROJECT_DIR$/shell_functions.sh" />
+        <option value="$PROJECT_DIR$/help_.sh" />
+        <option value="$PROJECT_DIR$/functions.sh" />
+        <option value="$PROJECT_DIR$/For Beginners/demo.txt" />
+        <option value="$PROJECT_DIR$/For Beginners/demo2.txt" />
+        <option value="$PROJECT_DIR$/For Beginners/directory_management.sh" />
+        <option value="$PROJECT_DIR$/For Beginners/file_management.sh" />
+        <option value="$PROJECT_DIR$/For Beginners/access_modes.sh" />
+        <option value="$PROJECT_DIR$/For Beginners/environment.sh" />
+        <option value="$PROJECT_DIR$/For Beginners/food" />
+        <option value="$PROJECT_DIR$/For Beginners/basic_utilities.sh" />
+        <option value="$PROJECT_DIR$/For Beginners/pipes_and_filters.sh" />
+        <option value="$PROJECT_DIR$/For Beginners/processes_management.sh" />
+        <option value="$PROJECT_DIR$/For Beginners/network_communication_utilities.sh" />
+        <option value="$PROJECT_DIR$/For Beginners/vi_editor_tutorial.sh" />
+        <option value="$PROJECT_DIR$/For Beginners/temp" />
+        <option value="$PROJECT_DIR$/Shell Programming/temp" />
+        <option value="$PROJECT_DIR$/For Beginners/from_budget_get_request.sh" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="720" />
     <option name="y" value="23" />
     <option name="width" value="720" />
-    <option name="height" value="812" />
+    <option name="height" value="806" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learn_shell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn_shell" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn_shell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn_shell" type="462c0819:PsiDirectoryNode" />
+              <item name="For Beginners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn_shell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn_shell" type="462c0819:PsiDirectoryNode" />
+              <item name="Shell Programming" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/didi/learn/learn_shell/For Beginners/demo2.txt" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Bash" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/For Beginners" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Shell Programming" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Bash.pipes_and_filters.sh">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="access_modes.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="learn_shell" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/For Beginners" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For Beginners/access_modes.sh" />
+      <option name="PARAMETERS" value="" />
+    </configuration>
+    <configuration name="basic_utilities.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="learn_shell" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/For Beginners" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For Beginners/basic_utilities.sh" />
+      <option name="PARAMETERS" value="" />
+    </configuration>
+    <configuration name="directory_management.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="learn_shell" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/For Beginners" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For Beginners/directory_management.sh" />
+      <option name="PARAMETERS" value="" />
+    </configuration>
+    <configuration name="file_management.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="learn_shell" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/For Beginners" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For Beginners/file_management.sh" />
+      <option name="PARAMETERS" value="" />
+    </configuration>
+    <configuration name="pipes_and_filters.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="learn_shell" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/For Beginners" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For Beginners/pipes_and_filters.sh" />
+      <option name="PARAMETERS" value="" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -55,6 +313,22 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Bash.file_management.sh" />
+      <item itemvalue="Bash.directory_management.sh" />
+      <item itemvalue="Bash.access_modes.sh" />
+      <item itemvalue="Bash.basic_utilities.sh" />
+      <item itemvalue="Bash.pipes_and_filters.sh" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Bash.pipes_and_filters.sh" />
+        <item itemvalue="Bash.basic_utilities.sh" />
+        <item itemvalue="Bash.access_modes.sh" />
+        <item itemvalue="Bash.directory_management.sh" />
+        <item itemvalue="Bash.file_management.sh" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="projectSyncType">
@@ -64,14 +338,515 @@
       </map>
     </option>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47595cc3-8171-401d-8f17-75d302ba4dc1" name="Default" comment="" />
+      <created>1553091204874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553091204874</updated>
+    </task>
+    <task id="LOCAL-00001" summary="IO重定向">
+      <created>1553244549311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553244549311</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Unix / Linux Shell Programming&quot; finish">
+      <created>1553249586965</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553249586965</updated>
+    </task>
+    <task id="LOCAL-00003" summary="总结整理,增加了xmind文件">
+      <created>1553309064201</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553309064201</updated>
+    </task>
+    <task id="LOCAL-00004" summary="增加xmind文件">
+      <created>1553309135203</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553309135203</updated>
+    </task>
+    <task id="LOCAL-00005" summary="重命名">
+      <created>1553310006572</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1553310006572</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="800" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Project Explorer" order="2" weight="0.32890856" />
+      <window_info id="Job Explorer" order="2" weight="0.32890856" />
+      <window_info anchor="bottom" id="Statistic" order="8" />
+      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.511579" side_tool="true" weight="0.26843658" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32914925" />
+      <window_info id="DB Browser" order="2" weight="0.32890856" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5449516" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32914925" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26742533" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48842105" weight="0.18597998" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35586208" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="DB Browser" order="4" weight="0.32890856" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Project Explorer" order="6" weight="0.32890856" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.36689654" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="12" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32914925" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info id="Structure" order="1" sideWeight="0.5074946" side_tool="true" weight="0.20058997" />
+      <window_info id="Job Explorer" order="9" weight="0.32890856" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49250534" weight="0.20058997" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32914925" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Console" order="10" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+    </layout-to-restore>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IO重定向" />
+    <MESSAGE value="&quot;Unix / Linux Shell Programming&quot; finish" />
+    <MESSAGE value="总结整理,增加了xmind文件" />
+    <MESSAGE value="增加xmind文件" />
+    <MESSAGE value="重命名" />
+    <option name="LAST_COMMIT_MESSAGE" value="重命名" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Shell Programming/quoting_machanisms.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/input_output_redirections.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/functions.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/arrays.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/basic_operators.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/help_.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/decision_making.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/basic_operators.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4040">
+          <caret line="202" column="13" selection-start-line="202" selection-start-column="13" selection-end-line="202" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/decision_making.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/loop_types.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/substitution.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/loop_control.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/basic_operators.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4040">
+          <caret line="202" column="13" lean-forward="true" selection-start-line="202" selection-start-column="13" selection-end-line="202" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/decision_making.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/loop_types.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/loop_control.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/read.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/get_date.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" />
+    <entry file="file://$PROJECT_DIR$/Shell Programming/exit_status.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/all_parameters.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/get_path.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/users">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/basic_operators.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/loop_types.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/loop_control.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/substitution.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/input_output_redirections.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/help_.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/functions.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Beginners/.hidden">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Beginners/file_management.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Beginners/access_modes.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="55" column="10" lean-forward="true" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Beginners/food">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Beginners/environment.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Beginners/basic_utilities.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Beginners/demo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Beginners/directory_management.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-235">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Beginners/pipes_and_filters.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Beginners/demo2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Beginners/network_communication_utilities.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Beginners/temp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Beginners/vi_editor_tutorial.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1580">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Beginners/processes_management.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/arrays.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/special_variable.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/quoting_machanisms.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/variable.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/temp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="64" selection-start-column="64" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shell Programming/decision_making.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Beginners/from_budget_get_request.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala-sdk-2.12.6</last-edited>
+          <last-edited>scala-sdk-2.11.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -83,11 +858,24 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>learn_shell</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
