@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+#访问模式
+
 #ls -l command can displays various information related to file permission
 
 #the first column represents different access modes, i.e., the permission associated with a file or a directory

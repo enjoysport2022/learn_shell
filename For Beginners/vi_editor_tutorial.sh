@@ -79,4 +79,31 @@ o: Creates a new line for text entry below the cursor location
 #P: puts the copied content before the cursor
 
 #Advanced Commands
+#Word and Character Searching
+#/: searches forwards
+#?: searches backwards
+#n,N: repeat the previous search command in the same or the opposite direction
+#
+#搜索时的转义字符:
+#^, ., *, $, [, <, >
 
+
+#Set Commands
+#:set ic -> Ignores the case when searching
+#:set ai -> Sets autoindent
+#:set noai -> Unsets autoindent
+#:set nu -> Displays lines with line numbers on the left side
+#:set sw -> Sets the width of a software tabstop, :set sw = 4
+#:set ws -> Sets the width of a software tabstop, :set sw = 4
+
+
+#Running Commands
+#vi has the capability to run commands from within the editor
+#type :! command
+#such as, :! ls
+
+
+#Replacing Text
+:s/search/replace/g
+#替换光标所在行
+#g stands for globally
